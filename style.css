@@ -1,0 +1,163 @@
+body{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+.Bahria{
+    background-color: steelblue;
+    color: black;
+    font-weight: bold;
+    height: 50px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    margin: 0;
+    text-align: center;
+    font-size: xxx-large;
+    width: 99%;
+}
+
+.FACULTY{
+    background-color: orange;
+    color: black;
+    font-weight: bolder;
+    height: 50px;
+    padding-top: 10px;
+    margin: 0;
+    text-align: center;
+    font-size: xx-large;
+    width: 99%;
+
+}
+.shift{
+    background-color: green;
+    color: black;
+    font-weight: bold;
+    height: 50px;
+    padding-top: 10px;
+    margin: 0;
+    text-align: center;
+    margin-bottom: 80px;
+    font-size: xx-large;
+    width: 99%;
+}
+
+.sub{
+    display: inline-block;
+    border: 1px solid black;
+    background-color: yellow;
+    width: 33%;
+    height: 100px;
+    text-align: center;
+    padding-top: 50px;
+    font-size: xxx-large;
+    margin-top: 30px;
+    line-height: normal;
+    font-weight: bolder;
+}
+.mini{
+    display: inline-block;
+    border: 1px solid black;
+    background-color: yellow;
+    width: 33%;
+    height: 100px;
+    text-align: center;
+    padding-top: 50px;
+    font-weight: bolder;
+    font-size: 30px;
+    line-height: 14px;
+}
+
+.ex{
+    display: inline-block;
+    border: 1px solid black;
+    background-color: yellow;
+    width: 32%;
+    height: 100px;
+    text-align: center;
+    padding-top: 50px;
+    font-size: xxx-large;
+    font-weight: bolder;
+}
+.bio{
+    display: inline-block;
+    border: 1px solid black;
+    background-color: skyblue;
+    width: 33%;
+    height: 107px;
+    text-align: center;
+    padding-top: 80px;
+    padding-bottom: 40px;
+    font-size: xx-large;
+    margin-top: 30px;
+    line-height: normal;
+    font-weight: bolder;
+    line-height: 100px;
+    margin: 0;
+}
+
+.m{
+    display: inline-block;
+    border: 1px solid black;
+    background-color: skyblue;
+    width: 33%;
+    height: 150px;
+    text-align: center;
+    padding-top: 80px;
+    font-size: xx-large;
+    margin-top: 30px;
+    line-height: 21px;
+    font-weight: bolder;
+    margin: 0;
+}
+
+.ct{
+        display: inline-block;
+        border: 1px solid black;
+        background-color: skyblue;
+        width: 32%;
+        height: 150px;
+        text-align: center;
+        padding-top: 80px;
+        font-size: xx-large;
+        margin-top: 30px;
+        line-height: 8px;
+        font-weight: bolder;
+        margin: 0
+}
+
+.green{
+    margin-top: 40px;
+    border: 1px solid black;
+        background-color: greenyellow;
+        width: 99%;
+}
+
+h2{
+    margin-left: 5px;
+    font-weight: bolder;
+
+}
+p{
+    font-weight: 900;
+    font-size: large;
+    margin-left: 15px;
+}
+
+
+.e1{
+    background-color: orange;
+    border: 1px solid black;
+    width: 99%;
+    margin-top: 40px;
+
+}
+
+.cv{
+    font-weight: bolder;
+    font-size: x-large;
+    margin-left: 15px;
+    
+}
+
+.Email{
+    text-align: center;
+}
